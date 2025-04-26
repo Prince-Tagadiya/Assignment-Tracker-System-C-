@@ -1,0 +1,13 @@
+11|Tutorial 1|OOP|15/04/2025|
+1|Assignment 1|Digital Circuits|20/04/2025|
+9|Thesis Report|OOP|24/04/2025|
+12|Practical Work|Mathematics|25/04/2025|
+2|Lab Report|OOP|26/04/2025|
+3|Project Report|Mathematics|28/04/2025|
+4|Quiz Preparation|ELW|29/04/2025|
+5|Case Study|OOP|05/05/2025|
+6|Assignment 2|Digital Circuits|10/05/2025|
+7|Research Paper|Mathematics|15/05/2025|
+8|Midterm Prep|ELW|18/05/2025|
+14|Assignment 1|OOP|30/05/2025|/Users/princetagadiya/Downloads/Assignment_03.pdf
+10|Final Project|Digital Circuits|30/06/2025|
