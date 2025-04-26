@@ -1,9 +1,3 @@
-Perfect!  
-I’ll now put **everything properly** (your GitHub link, project details, credits with your GitHub username) into **one clean `README.md`** —  
-written in **Markdown**, ready for you to directly copy and paste!
-
-Here’s your full code block:👇
-
 # 📚 Assignment Tracker System
 
 A simple yet powerful **console-based Assignment Tracker** built with C++ to help students manage their academic assignments easily.  
